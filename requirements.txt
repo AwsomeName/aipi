@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+dashscope
+sounddevice
+langchain
+openai
+loguru
+flask
